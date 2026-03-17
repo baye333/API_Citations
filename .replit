@@ -1,0 +1,9 @@
+run = "npm run build && npm start"
+modules = ["nodejs-20"]
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["bash", "-c", "npm run build && npm start"]
+build = ["bash", "-c", "npm run build"]
