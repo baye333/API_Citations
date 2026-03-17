@@ -1,5 +1,6 @@
 # 🚀 Developer Quotes API
-
+Voila l'image de la page de développement
+![image](assets/application_API.png)
 Une API REST minimaliste et performante construite avec **Node.js** et **Express**. Ce projet permet de gérer une collection de citations inspirantes pour les développeurs, avec un stockage persistant via un système de fichiers JSON.
 
 ---
