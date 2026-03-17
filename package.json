@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "build": "cd frontend && npm install && npm run build",
+    "postbuild": "npm install"
   },
   "keywords": ["api", "quotes", "developers", "express"],
   "author": "",
