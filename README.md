@@ -2,7 +2,7 @@
 Voila l'image de la page de développement
 
 ![image](assets/application_API.png)
-Ce site est hebergé sur Replit via ![site web](https://c1a3eeff-5195-49b7-8286-c640f4e780b1-00-211eqp6yat69j.worf.replit.dev/)
+Ce site est hebergé sur Replit via [site web](https://c1a3eeff-5195-49b7-8286-c640f4e780b1-00-211eqp6yat69j.worf.replit.dev/)
 Une API REST minimaliste et performante construite avec **Node.js** et **Express**. Ce projet permet de gérer une collection de citations inspirantes pour les développeurs, avec un stockage persistant via un système de fichiers JSON.
 
 ---
@@ -106,6 +106,16 @@ curl -X POST http://localhost:3002/api/quotes \
 ```
 
 ---
+
+## Outils de développement
+  - React
+  - Tailwind CSS
+  - Vite
+  - Node.js
+  - Express.js
+  - JSON
+  - Git
+
 
 ## 🤝 Contribution
 
